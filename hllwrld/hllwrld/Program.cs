@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("прикол");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("eshkere");
             Console.ReadKey();
         }
     }

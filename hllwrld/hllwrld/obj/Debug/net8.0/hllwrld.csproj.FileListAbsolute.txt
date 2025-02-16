@@ -12,3 +12,4 @@ D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\refint\hllwrld.dll
 D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.pdb
 D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.genruntimeconfig.cache
 D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\ref\hllwrld.dll
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.sourcelink.json
