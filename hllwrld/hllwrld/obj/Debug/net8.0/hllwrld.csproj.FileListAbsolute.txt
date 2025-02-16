@@ -1,0 +1,14 @@
+D:\project\hllwrld\hllwrld\hllwrld\bin\Debug\net8.0\hllwrld.exe
+D:\project\hllwrld\hllwrld\hllwrld\bin\Debug\net8.0\hllwrld.deps.json
+D:\project\hllwrld\hllwrld\hllwrld\bin\Debug\net8.0\hllwrld.runtimeconfig.json
+D:\project\hllwrld\hllwrld\hllwrld\bin\Debug\net8.0\hllwrld.dll
+D:\project\hllwrld\hllwrld\hllwrld\bin\Debug\net8.0\hllwrld.pdb
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.AssemblyInfoInputs.cache
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.AssemblyInfo.cs
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.csproj.CoreCompileInputs.cache
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.dll
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\refint\hllwrld.dll
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.pdb
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\hllwrld.genruntimeconfig.cache
+D:\project\hllwrld\hllwrld\hllwrld\obj\Debug\net8.0\ref\hllwrld.dll
